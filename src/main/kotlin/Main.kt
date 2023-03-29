@@ -13,6 +13,6 @@ desses números.
     var n2 = entrada.nextInt()
     println("Valor informado: $n2")
     var soma : Int = n1+n2
-    println("Soma: $soma")//a
+    println("Soma: $soma")
 
 }
